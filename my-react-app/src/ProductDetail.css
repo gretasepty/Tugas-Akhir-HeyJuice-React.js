@@ -1,0 +1,12 @@
+.product-detail img {
+    max-height: 400px;
+    object-fit: cover;
+}
+
+.product-detail h2 {
+    font-weight: bold;
+}
+
+.product-detail .btn {
+    margin-top: 20px;
+}
